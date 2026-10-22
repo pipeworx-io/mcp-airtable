@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-airtable",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Airtable MCP Pack — wraps the Airtable REST API v0",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-00227c6adabb2b8b8f002930ed34a31a82ff0eacb825304c65986b5060e64dbc",
-    "sourceCommit": "351c40908821cfecc9bb2f5849d87bbfdbb26d75"
+    "sourceHash": "v1-38f6ffbba20d9f9067824925bdf850a106f69f8af67aed0e5dc1654b311a5475",
+    "sourceCommit": "71f5325b13bb0ea0de2f0f7207885962ec91a484"
   }
 }
